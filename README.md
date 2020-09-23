@@ -16,7 +16,6 @@
 ### 2. Select a record
  
  ![404](Images/Select.png)
-)
 
 
 ### 3. Update a record
