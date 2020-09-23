@@ -10,6 +10,7 @@
  ### 1. Insert a record
  
  ![404](Images/insert_1.png)
+ - Second Image
  ![404](Images/insert_2.png)
 
 ### 2. Select a record
