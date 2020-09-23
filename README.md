@@ -8,10 +8,8 @@
     - localhost:5000
 
  ### 1. Insert a record
- 
- ![404](Images/insert_1.png)
- - Second Image
- ![404](Images/insert_2.png)
+ ![404](Images/Insert_1.png)
+ ![404](Images/Insert_2.png)
 
 ### 2. Select a record
  
