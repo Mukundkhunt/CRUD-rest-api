@@ -9,8 +9,8 @@
 
  ### 1. Insert a record
  
- ![404](Images/insert1.png)
- ![404](Images/insert2.png)
+ ![404](Images/insert_1.png)
+ ![404](Images/insert_2.png)
 
 ### 2. Select a record
  
